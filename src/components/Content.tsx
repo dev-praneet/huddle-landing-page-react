@@ -23,11 +23,17 @@ const Container = styled.div`
 const Button = styled.button`
     display: block;
     margin: 0 auto;
-    padding: 1em 6em;
+    padding: 1em 5em;
     border: none;
     border-radius: 2em;
     font-size: 1.1rem;
     color: var(--purple);
+    box-shadow: 0 0 8px black;
+
+    :hover {
+        color: white;
+        background-color: var(--magenta);
+    }
 `;
 
 const Content: React.FC = () => {

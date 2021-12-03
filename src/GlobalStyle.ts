@@ -4,6 +4,7 @@ export const GlobalStyle = createGlobalStyle`
     :root {
         font-size: 16px;
         --purple: hsl(257, 40%, 49%);
+        --magenta: hsl(300, 69%, 71%);
     }
 
     *, *::before, *::after {

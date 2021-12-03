@@ -13,7 +13,7 @@ const Container = styled.div`
     p {
         font-family: 'Open Sans', sans-serif;
         font-weight: 400;
-        color: hsl(0deg, 0%, 80%);
+        color: hsl(257deg, 60%, 80%);
         text-align: center;
         font-size: 1.3rem;
         line-height: 1.5;

@@ -8,7 +8,7 @@ const Container = styled.div`
 const Hero: React.FC = () => {
     return (
         <Container>
-            <HeroImage style={{display: 'block'}} viewBox='0 0 709 506' width='100%' height='100%'/>
+            <HeroImage style={{display: 'block'}} viewBox='0 0 709 506' className='hero-svg'/>
         </Container>
     )
 }

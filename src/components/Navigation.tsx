@@ -9,7 +9,7 @@ const Container = styled.nav`
 const Navigation: React.FC = () => {
     return (
         <Container>
-            <Logo viewBox="0 0 264 49"/>
+            <Logo height='50px' viewBox='35 0 198 49'/>
         </Container>
     )
 }

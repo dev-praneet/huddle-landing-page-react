@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- {Solution URL}(https://github.com/geeky-amat/huddle-landing-page-react)
+- [Solution URL](https://github.com/geeky-amat/huddle-landing-page-react)
 - [Live Site URL](https://geeky-amat.github.io/huddle-landing-page-react/)
 
 ## My process

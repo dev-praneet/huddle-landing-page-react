@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/geeky-amat/huddle-landing-page-react)
-- [Live Site URL](https://geeky-amat.github.io/huddle-landing-page-react/)
+- [Solution URL](https://github.com/dev-praneet/huddle-landing-page-react)
+- [Live Site URL](https://dev-praneet.github.io/huddle-landing-page-react/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@geeky-amat](https://www.frontendmentor.io/profile/geeky-amat)
-- Twitter - [@GeekyAmat](https://www.twitter.com/GeekyAmat)
+- Twitter - [@dev_praneet](https://twitter.com/__dev_praneet__)

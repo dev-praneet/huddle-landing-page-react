@@ -42,4 +42,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@geeky-amat](https://www.frontendmentor.io/profile/geeky-amat)
-- Twitter - [@dev_praneet](https://twitter.com/__dev_praneet__)
+- Twitter - [@\_\_dev_praneet\_\_](https://twitter.com/__dev_praneet__)
